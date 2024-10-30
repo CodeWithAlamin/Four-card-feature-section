@@ -1,6 +1,7 @@
 # Frontend Mentor - Four card feature section solution
 
-This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
 ## Table of contents
 
 - [Overview](#overview)
@@ -21,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- [👉 Click here to see Live preview](https://codepapa360.github.io/Four-card-feature-section/)
-<br>
+- [👉 Click here to see Live preview](https://four-card-feature-section-alamin.netlify.app)
+  <br>
 
 - [👉 Frontendmentor solution page](https://www.frontendmentor.io/solutions/four-card-feature-section-solution-LnjA3GOVJ8)
 
@@ -38,9 +39,9 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
+- Frontend Mentor - [@CodeWithAlamin](https://www.frontendmentor.io/profile/CodeWithAlamin)
+- Twitter - [@CodeWithAlamin](https://www.twitter.com/CodeWithAlamin)
+- LinkedIn - [@CodeWithAlamin](https://www.linkedin.com/in/CodeWithAlamin)
 
 ### Screenshot
 
@@ -48,6 +49,6 @@ Users should be able to:
 
 <p><img align="center" src="design/Desktop-preview.png"/></p>
 
-#### Mobile preview 
+#### Mobile preview
 
 <p><img align="center" width="30%" src="design/Mobile-preview.png"/></p>
